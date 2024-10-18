@@ -8,7 +8,7 @@ Fullstack Developer with expertise in Data and AI Integration
 
 ### Github Status
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aikoandre&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues,contribs&text_color=FFF&border_radius=3&border_color=FFFFFF&icon_color=87CEEB&theme=dark)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aikoandre&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&text_color=FFF&border_radius=3&border_color=FFFFFF&icon_color=87CEEB&theme=dark)
 
 ### Most Used Languagues
 
