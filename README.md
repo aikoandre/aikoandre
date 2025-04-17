@@ -1,6 +1,7 @@
 # André Luiz
 
 Fullstack Developer with expertise in Data and AI Integration
+
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aikoandreluiz)
@@ -12,4 +13,4 @@ Fullstack Developer with expertise in Data and AI Integration
 
 ### Most Used Languagues
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aikoandre&layout=compact&langs_count=8&theme=dark&hide_title=true&size_weight=0&count_weight=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aikoandre&layout=compact&langs_count=8&theme=dark&hide_title=true&size_weight=0.5&count_weight=0.5)
