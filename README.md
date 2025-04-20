@@ -1,6 +1,6 @@
 # André Luiz
 
-Estudante de Análise e Desenvolvimento de Sistemas, atualmente estudando sobre Python e Inteligência Artificial.
+Estudante de Análise e Desenvolvimento de Sistemas, atualmente focando sobre Python e Inteligência Artificial.
 
 ### Contato
 
