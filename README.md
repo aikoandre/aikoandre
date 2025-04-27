@@ -10,4 +10,4 @@ Estudante de Análise e Desenvolvimento de Sistemas, atualmente focando sobre Py
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aikoandre&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&text_color=FFF&icon_color=87CEEB&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aikoandre&layout=donut&langs_count=8&theme=dark&hide_title=true&size_weight=0&count_weight=0&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aikoandre&layout=donut&langs_count=8&theme=dark&hide_title=true&size_weight=0.5&count_weight=0.5&text_color=FFFFFF)
