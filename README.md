@@ -25,9 +25,10 @@ Student of Analysis and Development of Systems, focusing on Data Analysis and tr
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aikoandre&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=0d1117&text_color=FFF&icon_color=87CEEB&title_color=87CEEB&border_color=30363d)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aikoandre&layout=donut&langs_count=8&theme=dark&hide_title=true&size_weight=0.5&count_weight=0.5&text_color=FFFFFF&bg_color=0d1117&border_color=30363d)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aikoandre&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&hide=issues&bg_color=0d1117&text_color=FFF&icon_color=87CEEB&title_color=87CEEB&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikoandre&layout=compact&langs_count=8&hide_title=true&bg_color=0d1117&text_color=FFFFFF&border_color=30363d&title_color=87CEEB"/>
+</div>
 
 ## Currently Learning
 
