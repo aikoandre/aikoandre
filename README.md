@@ -1,6 +1,6 @@
 ## About Me
 
-Student of Analysis and Development of Systems, focusing on Data Analysis and transforming data into actionable insights. Currently building skills in **Python**, **SQL**, and **Power BI** tools to pursue a career as a Data Analyst.
+Data Analyst with a strong background in Administration and Finance. Passionate about transforming complex data into actionable business insights. Experienced in bridging the gap between business needs and technical solutions using Python, SQL, and Power BI.
 
 ## Contact
 
