@@ -1,3 +1,7 @@
+## Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-aikoandre.vercel.app-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://aikoandre.vercel.app/)
+
 ## About Me
 
 Data Analyst with a strong background in Administration and Finance. Passionate about transforming complex data into actionable business insights. Experienced in bridging the gap between business needs and technical solutions using Python, SQL, and Power BI.
